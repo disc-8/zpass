@@ -14,8 +14,7 @@ rather acting as a "procedural" password generator, which turns plain text input
 * Overkill security
 
 ## Usage
-
-`$ zpass username example.com`
+![term](https://github.com/disc-8/zpass/assets/130178512/d1ec16c0-33d0-454f-8150-a049bcc8afe8)
 
 # Installation
 ## Windows
