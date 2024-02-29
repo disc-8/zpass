@@ -37,8 +37,8 @@ Acting as a "procedural" password generator, it provides a memorable way to gene
 </details>
 
 # Usage
- ![usage example](https://github.com/disc-8/zpass/assets/130178512/b8b9aeae-f2c6-4168-86aa-dbac8d9d6d23)
- 
+ ![usage example](https://github.com/disc-8/zpass/assets/130178512/360a4819-3df7-4b38-a59b-3294fafc6ff8)
+
 >[!TIP]
 > **This is more of a general password tip than a `zpass` one, but it is aspecially useful without a file-based password manager.**
 >
