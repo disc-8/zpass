@@ -6,7 +6,6 @@ Release: 1%{?dist}
 License: GPLv3
 Summary: Storage-less password manager
 Url: https://github.com/disc-8/zpass
-Source0: zpass-1.0.0.tar.gz
 
 BuildArch: noarch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
