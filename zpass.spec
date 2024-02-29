@@ -21,7 +21,7 @@ zpass is a password generator and "manager" that uses a plain text input, like a
 #-- PREP, BUILD & INSTALL -----------------------------------------------------#
 %prep
 mkdir -p ${name}-${version}/usr/bin/
-cp ${name} ${name}-${version}/usr/bin
+cp ${name}.sh ${name}-${version}/usr/bin/${name}
 tar czvf ${name}-${version}.tar.gz ${name}-${version}
 
 %build
