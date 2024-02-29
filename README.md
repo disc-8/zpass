@@ -4,10 +4,12 @@
  <sup>A reasonably secure password generator and "manager"</sup>
 </p>
 
->[!CAUTION]
-> At all costs hide that you are using `zpass` from potential adversaries and public forums, as it will make it ***much easier*** to crack your passwords, putting focus onto cracking your master password.
+>[!WARNING]
+> Try to hide that you are using `zpass` from potential adversaries and public forums, as it will make it ***easier to crack your passwords***, putting focus onto cracking your master password.
 >
 > If you're going to suggest to anyone to use it, say that you're "still considering it", as to not reveal it.
+>
+> It will still be ***insanely hard*** to crack though, but it's better to have that extra layer of security.
 
 ---
 
