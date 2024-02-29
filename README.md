@@ -27,7 +27,7 @@ Acting as a "procedural" password generator, it provides a memorable way to gene
 * Minimal, very small amount of dependencies
   * `bash`, or other POSIX compliant shell
   * `xxd`
-  * `openssl`, or other crypto toolset that provides `sha###hmac`
+  * `libkcapi-hmaccalc`, or other crypto toolset that provides `sha###hmac`
 * Overkill security
 
 <details>
