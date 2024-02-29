@@ -30,7 +30,7 @@ Acting as a "procedural" password generator, it provides a memorable way to gene
 
 <details>
 <summary><b>Password strength test</b></summary>
-<sup>to reproduce: `$ passw test test`, using master password `test`.</sup>
+<sup>to reproduce: <code>$ zpass test test</code>, using master password <code>test</code>.</sup>
 
 >https://www.antivirus.promo/password-strength-checker
 ![antivirus.promo](https://github.com/disc-8/zpass/assets/130178512/074e5b07-8a43-435e-871c-32ad1ec52399)
