@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="zpass" src="https://github.com/disc-8/zpass/assets/130178512/c32de281-179b-4d3d-8f46-d95472dca6fc">
+ <img alt="zpass" src="https://github.com/disc-8/zpass/assets/130178512/c32de281-179b-4d3d-8f46-d95472dca6fc">
 </h1><p align="center">
  <sup>A reasonably secure password generator and "manager"</sup>
 </p>
@@ -11,9 +11,9 @@
 
 ---
 
-`zpass` is a password generator and "manager" that uses a plain text, like an **username** and **website name** to make an uncrackable[^1] password.
+`zpass` is a password generator and "manager" that uses a plain text input, like an **username** and **website name** to make an uncrackable[^1] password.
 
-It doesn't behave like a traditional password manager, that generates random passwords into an encrypted file, which if it gets corrupted or deleted, all your accounts are gone,
+It doesn't behave like a traditional password manager that generates random passwords into an encrypted file, which is vulnerable to data loss, which will make you lose all your accounts without a backup.
 
 Acting as a "procedural" password generator, it provides a memorable way to generate strong passwords without worrying about data loss, as all passwords are reproducibly made on the go.
 
