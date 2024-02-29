@@ -74,5 +74,7 @@ If you find this script useful, please consider donating:
   
 </details>
 
+> Shoutout to <a href="https://github.com/jclopes/zpass3">jclopes</a>, who had the LITERAL 1:1 SAME IDEA, WITH THE SAME PROJECT NAME, months before I even considered making this</sup>
+
 [^1]: theoretically it is crackable, but the Sun will explode you get compromised.
 
